@@ -1,0 +1,157 @@
+body{
+ margin: 0px;
+  background-color: #999;
+}
+
+.clear{
+ clear:both;
+}
+
+#container{
+ width: 900px;
+ min-height: 500px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#container #header{
+ height: 60px;
+ background-color: #555;
+ text-align: center;
+ color: #ddd;
+ font-size: 20px;
+ font-family: verdana;
+ font-weight: bold;
+ padding-top: 20px;
+}
+
+#container .menu-bk{
+ background-color: #555;
+}
+
+#container .menu-bk .menu-container{
+ background-color: #555;
+ width: 750px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#container .menu-bk .menu-container .menu{
+ padding-top: 4px;
+ padding-bottom: 4px;
+ padding-left: 10px;
+ padding-right: 10px;
+ background-color: green;
+ float: left;
+ margin-right: 2px;
+}
+
+#container .menu-bk .menu-container .menu a{
+ color: #fff;
+ text-decoration: none;
+}
+
+#container #body{
+ height: 400px;
+ background-color: #ccc;
+ padding: 15px;
+}
+#container #body .department-form{
+ width: 350px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#container #body  table tr{
+ background-color: #aaa;
+}
+
+#container #body  table tr th{
+ color: #fff;
+ background-color: #888;
+}
+
+#container #body  table tr td input{
+ width: 200px;
+ background-color: #ccc;
+}
+
+#container #body  table tr td #submit{
+ width: 100px;
+}
+
+#container #body #report{
+ color: #af3656;
+}
+
+
+#container #body .registration-form{
+ width: 350px;
+ margin-left: auto;
+ margin-right: auto;
+}
+#container #body .login-form{
+ width: 350px;
+ margin-left: auto;
+ margin-right: auto;
+}
+#container #body .course-form{
+
+ margin-left: 115px;
+ margin-right: auto;
+}
+#container #body .course-form table tr td input{
+ width: 100px;
+ background-color: #ccc;
+}
+
+
+#container #body .course2-form{
+ margin-left: 300px;
+ margin-right: auto;
+}
+
+#container #body-about{
+ height: 400px;
+ background-color: #ccc;
+ padding: 15px;
+ }
+
+ #container #body .home-form{
+ width: 432px;
+ margin-left: 185px;
+ margin-right: auto;
+ padding-top: 50px;
+ background-color: green;
+ padding-bottom: 50px;
+ padding-left: 38px;
+
+}
+#container #body  .home-form table th{
+ background-color: #aaa;
+ text-align: center;
+ color: black; 
+}
+ #container #body .logout-form{
+ width: 300px;
+ margin-left: auto;
+ margin-right: auto;
+ padding-top: 50px;
+ background-color: green;
+ padding-bottom: 50px;
+ padding-left: 80px;
+}
+#container #body  .logout-form table th{
+ background-color: #aaa;
+ text-align: center;
+ color: red; 
+}
+ #container #footer{
+ height: 22px;
+ background-color: #555;
+ text-align: center;
+ color: #ddd;
+ font-size: 14px;
+ font-family: verdana;
+ padding-top: 8px;
+}
