@@ -13,4 +13,6 @@ if(isset($_REQUEST['course']))
 $data['bodyContent'] = getCourseRegistrationForm();
 
 require_once(LAYOUT);
+
+// just for testing re-commit for realizing how git works.
 ?>
